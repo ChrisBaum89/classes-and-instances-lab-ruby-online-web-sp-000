@@ -1,4 +1,4 @@
 class Person
-  var adele_goldberg
-  var alan_kay
+  adele_goldberg = Person.new
+  var alan_kay = Person.new
 end

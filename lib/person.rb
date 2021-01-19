@@ -1,4 +1,4 @@
 class Person
-  adele_goldberg
-  alan_kay
+  var adele_goldberg
+  var alan_kay
 end

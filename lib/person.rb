@@ -1,3 +1,3 @@
 class Person
-  Var adele_goldberg
+  Var adele_goldberg = ""
 end
